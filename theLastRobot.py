@@ -357,18 +357,18 @@ if __name__ == '__main__':
     while exploring:
 
         # please don't look at this part
-        # node.rotate()
-        # rospy.sleep(.5)
-        # node.rotate()
-        # node.rotate()
-        # rospy.sleep(.5)
-        # node.rotate()
-        # node.rotate()
-        # rospy.sleep(.5)
-        # node.rotate()
-        # node.rotate()
-        # rospy.sleep(.5)
-        # node.rotate()
+        node.rotate()
+        rospy.sleep(.5)
+        node.rotate()
+        node.rotate()
+        rospy.sleep(.5)
+        node.rotate()
+        node.rotate()
+        rospy.sleep(.5)
+        node.rotate()
+        node.rotate()
+        rospy.sleep(.5)
+        node.rotate()
         # thanks, okay now you can look again
 
         node.waitForMap = False
