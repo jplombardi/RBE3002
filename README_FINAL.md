@@ -15,6 +15,7 @@ How to Run the Program:
 	> roslaunch turtlebot_rviz_launchers view_navigation.launch
 5. To visualize frontiers and largest group, add two GridCell visualizations to RVIZ mapped on respective topics,
 	>/frontier
+	
 	>/theFrontier
 6. Run the submitted python file:
 	> cd (wherever the file is stored)
