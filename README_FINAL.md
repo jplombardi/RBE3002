@@ -17,7 +17,8 @@ How to Run the Program:
 	>/frontier
 	
 	>/theFrontier
-6. Run the submitted python file:
-	> cd (wherever the file is stored)
-	> python theLastRobot.py
+6. Run the final project python file:
+	> cd <file_location>
+	
+	>python theLastRobot.py
 	
